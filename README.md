@@ -3,7 +3,7 @@
 Leak-detector.ino works with a contact or non-contact liquid sensor (such as XKC-Y25-T12V) and a standard relay which can be closed or open when a leak is detected. 
 
 
-## Stay safe
+## Be careful
 ⚠️ **Electronics and water can be very dangerous.
 On top of the standard safety measure when working with electrical in risky situations I highly recommended protecting your circuit inside waterproof graded containers. Be careful**
 
